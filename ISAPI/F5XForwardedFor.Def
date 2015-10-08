@@ -1,0 +1,5 @@
+LIBRARY	     F5XForwardedFor
+
+EXPORTS
+    HttpFilterProc
+    GetFilterVersion
